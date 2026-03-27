@@ -8,7 +8,8 @@ a running NO button, confetti, and a personal love letter reveal.
 [View it here](https://be-my-valentinee-my.netlify.app/)
 
 ## Preview
-<!-- Drop a screenshot of your site here after uploading to GitHub -->
+<img width="1118" height="606" alt="image" src="https://github.com/user-attachments/assets/bbd2338e-c62a-490e-8b7e-1dac9da5cb6f" />
+
 
 ## Features
 - 7 animated screens with smooth transitions
