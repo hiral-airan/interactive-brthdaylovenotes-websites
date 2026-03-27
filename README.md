@@ -24,12 +24,6 @@ a running NO button, confetti, and a personal love letter reveal.
 - CSS3 (keyframe animations, clip-path, CSS variables)
 - Vanilla JavaScript (no frameworks, no libraries)
 
-## How to Use
-1. Clone or download this repo
-2. Open `index.html` in any browser — it works instantly, no setup needed
-3. To customise: edit the wish text, date, and photo in `index.html`
-4. To deploy: drag the folder to [Netlify Drop](https://app.netlify.com/drop)
-
 ## Project Structure
 ```
 index.html   ← everything lives here (single file app)
